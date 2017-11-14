@@ -16,9 +16,9 @@ Please view my latest work, I'm always looking for new projects and postive feed
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://twitter.com/benmcgrath11) 
+[Twitter](https://twitter.com/benmcgrath11) 
 
-[Link(https://www.linkedin.com/in/ben-mcgrath-2207a53b/)
+[LinkedIn](https://www.linkedin.com/in/ben-mcgrath-2207a53b/)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
