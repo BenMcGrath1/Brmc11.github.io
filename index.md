@@ -1,19 +1,12 @@
-## Welcome to GitHub Pages
+# Welcome to the Jungle! 
 
-You can use the [editor on GitHub](https://github.com/Brmc11/Brmc11.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+It's not all fun and games... OK mostly 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## My Work
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please view my latest work, I'm always looking for new projects and postive feedback, feel free to leave a comment, reach out on email, twitter or connect on LinkedIn
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -23,8 +16,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+[Link](https://twitter.com/benmcgrath11) 
+
+[Link(https://www.linkedin.com/in/ben-mcgrath-2207a53b/)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
